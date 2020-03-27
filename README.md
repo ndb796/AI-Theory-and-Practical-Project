@@ -3,8 +3,7 @@
 * 논문에 적힌 수식을 어렵지 않게 이해할 수 있도록 공부합니다.
 ### 목차 구성
 * 강의 소개
-* 당신은 딥러닝을 제대로 공부했는가
-* 행렬 기초
+* 선형대수학(Linear Algebra)
 * PyTorch의 Tensor
 * Linear Regression
 * Cost Function - 최소 제곱법(LSM)
